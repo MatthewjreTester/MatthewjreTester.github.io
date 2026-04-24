@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: MatthewjreTester - Portfolio
-banner_subtitle: a minimalist template for personal websites
+banner_subtitle: Some of the work I've done at Clemson University
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
@@ -42,16 +42,12 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
+### Howdy  
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
-  
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
-  
+About Me
 
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
+Howdy. I’m Matthew Re.
 
+I currently teach at Clemson University, where I am a lecturer in the School of Computing’s computer science department.
 
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
+I completed my bachelor’s Degree in computer science in 2021 at The University of South Carolina in Columbia. After graduation, I began a Ph.D. at Clemson University in the Human-Centered Computing department, with a research focus on accessibility for neurodiverse (namely ADHD and Autism) individuals in CS education. However, after two years in the Ph.D. program, I decided to graduate early with my Masters in Computer Science to pursue full-time teaching at the collegiate level, bringing me to where I am today.
